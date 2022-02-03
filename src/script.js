@@ -14,5 +14,6 @@ const sleep = (time, func) => {
     })
 }
 
-// 2秒まって、実行する
-sleep(2, mute)
+window.onload = function () {
+    sleep(1, mute)
+};
