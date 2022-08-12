@@ -2,8 +2,9 @@
 meetを開くときにデフォルトでビデオとマイクをミュートにしてくれます。
 
 ## インストール方法
- - [リリースページ](https://github.com/okaponta/mute-meet/releases/)から`mute-meet.zip`をダウンロードする
- - 拡張機能(`chrome://extensions/`)のページの右上のデベロッパーモードにした状態で、mute-meet.zipをドラッグ&ドロップ
+ - `git clone https://github.com/okaponta/mute-meet.git`
+ - 拡張機能(`chrome://extensions/`)のページの右上のデベロッパーモードにした状態で、「パッケージ化されていない拡張機能を読み込む」を選択
+ - `clone`した`src`ディレクトリを選択
 
 ## 注意事項
  - macのみの対応になります

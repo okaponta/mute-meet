@@ -1,7 +1,7 @@
 {
     "name": "MuteMeet",
-    "version": "1.0.1",
-    "manifest_version": 2,
+    "version": "1.0.2",
+    "manifest_version": 3,
     "description": "Makes Video and Microphone Mute Automatically",
     "content_scripts": [
         {
